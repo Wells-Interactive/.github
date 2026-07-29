@@ -6,7 +6,7 @@
 
 We work across **IT Consulting, Software Development, Web & Mobile Applications, Digital Solutions, Outsourcing, Human Resources, and Technology Innovation**.
 
-Our development ecosystem includes **Brainyte**, our technology and software innovation platform, alongside a growing collection of applications, tools, APIs, and open-source projects.
+Our development ecosystem includes **Brainyte**, our software development division, focused strictly on building web applications, custom software for your digital needs.
 
 ---
 
@@ -97,7 +97,7 @@ https://github.com/Wells-Interactive/brainyte-whatsorder
 
 ## 🔐 Code With Wells
 
-Infrastructure and licensing tools for managing software licensing and product deployments.
+A community where young people learn, build, collaborate and launch real-world software.
 
 🔗 Repository:
 https://github.com/Wells-Interactive/CodeWithWells
