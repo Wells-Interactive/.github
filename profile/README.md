@@ -146,7 +146,7 @@ https://github.com/Wells-Interactive
 
 ### GitHub Profile (Founder)
 
-https://github.com/ighodaloEllis **[Founder](https://linktr.ee/mrwellslife)**
+https://github.com/ighodaloEllis  **[Others](https://linktr.ee/mrwellslife)**
 
 
 ### Code With Wells
