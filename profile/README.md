@@ -44,7 +44,6 @@ We build and explore solutions across:
 * 🍽️ Restaurant Technology
 * 📊 Business Management Systems
 * 🔌 APIs & Backend Services
-* ☁️ Cloud & SaaS Solutions
 * 🔐 Secure Software & Infrastructure
 * 🛠️ Developer Tools
 
