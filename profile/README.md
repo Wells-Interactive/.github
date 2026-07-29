@@ -30,9 +30,7 @@ Our development ecosystem includes **Brainyte**, our software development divisi
 
 ---
 
-# <img width="47" height="47" alt="image" src="https://github.com/user-attachments/assets/6c82d38e-3e4f-48bf-9d44-c6aae50b3d67" />
- Brainyte
-
+# <img width="87" height="87" alt="image" src="https://github.com/user-attachments/assets/6c82d38e-3e4f-48bf-9d44-c6aae50b3d67" />
 **Brainyte** is the technology and software innovation ecosystem associated with Wells Interactive.
 
 We build and explore solutions across:
