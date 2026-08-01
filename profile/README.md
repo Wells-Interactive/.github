@@ -93,12 +93,12 @@ https://github.com/Wells-Interactive/brainyte-whatsorder
 
 ---
 
-## 🔐 Code With Wells
+## 🔐 Brainyte Licensing System
 
-A community where young people learn, build, collaborate and launch real-world software.
+The Brainyte Licensing Platform manages licenses, customers, products, activations, and subscriptions for all Brainyte software. It provides secure license verification and centralized control through an admin dashboard.
 
 🔗 Repository:
-https://github.com/Wells-Interactive/CodeWithWells
+https://github.com/Wells-Interactive/brainyte-license-server
 
 ---
 
