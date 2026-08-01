@@ -151,6 +151,8 @@ https://github.com/ighodaloEllis  👉 **Others:** https://linktr.ee/mrwellslife
 
 A developer-focused initiative designed to help young and aspiring developers learn, build, and grow through practical software development.
 
+https://github.com/Wells-Interactive/CodeWithWells
+
 🔗 Explore through our official links:
 https://linktr.ee/wellsinteractive
 
