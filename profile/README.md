@@ -309,6 +309,15 @@ A WhatsApp-focused ordering ecosystem designed to help businesses receive, manag
 https://github.com/Wells-Interactive/brainyte-whatsorder
 
 ---
+🛡️ Brainyte Fortress
+
+Brainyte Fortress is a secure-device Custom ROM designed to turn Android devices into controlled, protected communication environments and
+Operating System: AfOS Android™ — Fortress Operating System
+
+🔗 Repository:
+https://github.com/Wells-Interactive/brainyte-fortress
+
+---
 
 ## 🔐 Brainyte Licensing System
 
