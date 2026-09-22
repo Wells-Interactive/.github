@@ -108,6 +108,18 @@ https://github.com/Wells-Interactive/brainyte-whatsorder
 
 ---
 
+---
+## 🛡️ Brainyte Fortress
+
+Brainyte Fortress is a secure-device Custom ROM designed to turn Android devices into controlled, protected communication environments with an
+Operating System Called AfOS  — Android™ Fortress Operating System
+
+🔗 Repository:
+https://github.com/Wells-Interactive/brainyte-fortress
+
+---
+**
+
 ## 🔐 Brainyte Licensing System
 
 The Brainyte Licensing Platform manages licenses, customers, products, activations, and subscriptions for all Brainyte software. It provides secure license verification and centralized control through an admin dashboard.
@@ -174,157 +186,6 @@ https://linktr.ee/wellsinteractive
 or
 
 http://www.wellsint.site/code-with-wells
-
----
-
-# 🏗️ Technology Stack
-
-Our projects use a wide range of modern technologies, selected according to the needs of each product.
-
-### Languages
-
-`PHP` `Dart` `JavaScript` `TypeScript` `HTML` `CSS` `SQL`
-
-### Frameworks & Platforms
-
-`Flutter` `React` `WordPress` `Node.js`
-
-### Backend & Infrastructure
-
-`PHP` `MySQL` `Supabase` `REST APIs` `GitHub Actions`
-
-### Development & Collaboration
-
-`Git` `GitHub` `VS Code` `Android Studio`
-
----
-
-# 📚 Project Categories
-
-### 🧠 AI & Automation
-
-Intelligent systems, AI-powered tools, chatbots, and workflow automation.
-
-### 📱 Mobile Development
-
-Cross-platform Android and iOS applications built with modern development frameworks.
-
-### 🌐 Web Development
-
-Responsive websites, web applications, business platforms, and custom systems.
-
-### 🍽️ Business & Restaurant Technology
-
-POS systems, restaurant management tools, ordering platforms, and operational software.
-
-### 🔌 APIs & Integrations
-
-Backend services and integrations that connect applications, platforms, and business workflows.
-
-### 🛠️ Developer Tools
-
-Utilities and tools designed to make development, deployment, and everyday workflows easier.
-
----
-
-# 🤝 Work With Us
-
-Are you interested in:
-
-* Building a software product?
-* Developing a mobile application?
-* Creating a business management system?
-* Automating your business processes?
-* Building an AI-powered solution?
-* Improving your digital infrastructure?
-* Partnering on a technology project?
-
-Connect with **Wells Interactive** and let's build something useful together.
-
-🌐 **Website:** http://www.wellsint.site/
-
-🧠 **Brainyte:** http://www.wellsint.site/brainyte 
-
-🔗 **All Official Links:** https://linktr.ee/wellsinteractive
-
----
-
-# 🌍 Connect With Us
-
-| Platform             | Link                                             |
-| -------------------- | ------------------------------------------------ |
-| 💻 GitHub            | https://github.com/Wells-Interactive             |
-| 🌐 Wells Interactive | http://www.wellsint.site/                        |
-| 🧠 Brainyte          | http://www.wellsint.site/brainyte                |
-| 💼 LinkedIn          | https://ng.linkedin.com/company/wellsinteractive |
-| 🔗 Linktree          | https://linktr.ee/wellsinteractive               |
-
----
-
-# ⭐ Support Our Work
-
-If you find one of our public projects useful:
-
-⭐ Star the repository
-🐛 Report an issue
-💡 Suggest an improvement
-🔀 Submit a pull request
-📢 Share the project with others
-
-Every contribution and interaction helps us continue building better technology.
-
----
-
-# 📌 About Wells Interactive
-
-**Wells Interactive Services Ltd**
-Abuja, Nigeria
-
-**Technology. Innovation. People.**
-
-We believe technology should solve real problems, simplify complex processes, and create opportunities for people and businesses to grow.
-
----
-
-### © Wells Interactive Services Ltd
-
-*Building technology. Empowering people. Creating possibilities.*
-
-**Wells Interactive × Brainyte**
-
-## 🧠 Brainyte AI Terminal Helper
-
-Developer-focused tools designed to improve terminal workflows and assist with software development tasks.
-
-🔗 Repository:
-https://github.com/Wells-Interactive/brainyte-ai-terminal-helper
-
----
-
-## 💬 Brainyte WhatsOrder
-
-A WhatsApp-focused ordering ecosystem designed to help businesses receive, manage, and process customer orders through conversational commerce.
-
-🔗 Repository:
-https://github.com/Wells-Interactive/brainyte-whatsorder
-
----
-## 🛡️ Brainyte Fortress
-
-Brainyte Fortress is a secure-device Custom ROM designed to turn Android devices into controlled, protected communication environments with an
-## Operating System Called AfOS Android™ — Fortress Operating System
-
-🔗 Repository:
-https://github.com/Wells-Interactive/brainyte-fortress
-
----
-
-## 🔐 Brainyte Licensing System
-
-The Brainyte Licensing Platform manages licenses, customers, products, activations, and subscriptions for all Brainyte software. It provides secure license verification and centralized control through an admin dashboard.
-
-🔗 Repository:
-https://github.com/Wells-Interactive/brainyte-license-server
 
 ---
 
