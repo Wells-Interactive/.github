@@ -134,8 +134,11 @@ Lendora is a Brainyte test project to enhance Fintech security. It is designed a
 
 The platform uses:  Server-side loan limits, Secure authentication, Multi-factor verification, KYC/identity verification, Transaction integrity controls, Verified payment webhooks, Role-based access control, Audit trails, Fraud and risk monitoring, 
 
-🔗 Repository:
+🔗 API Repository:
 https://github.com/Wells-Interactive/Brainyte_Lendora
+
+Mobile Repository:
+https://github.com/Wells-Interactive/brainyte_lendora_mobile
 
 ---
 
