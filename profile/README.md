@@ -130,38 +130,15 @@ https://github.com/Wells-Interactive/brainyte-license-server
 ---
 ## 💳 Lendora
 
-**Lendora** is a secure digital lending and financial technology platform designed to provide users with simple, transparent, and responsible access to credit.
+Lendora is a Brainyte test project to enhance Fintech security. It is designed around a **security-first architecture** where the backend remains the only authoritative source of truth for financial operations. This test API might later become available for public use.
 
-The platform is being built with a strong focus on **security, identity verification, financial integrity, and user protection**, supporting loan applications of up to **₦200,000**.
-
-**Technology:** Flutter • Dart • Laravel • PHP • MySQL • Redis • REST APIs
-
-**Platforms:** Android • iOS • Web
-
-**Core Features:**
-
-* 💰 Secure loan applications
-* 🪪 Identity & KYC verification
-* 🔐 Multi-factor authentication
-* 🛡️ Device & account security
-* 📊 Loan eligibility and risk assessment
-* 💳 Secure repayments
-* 🏦 Protected financial transactions
-* 📒 Double-entry financial ledger
-* 🚨 Fraud and security monitoring
-* 📝 Comprehensive audit logging
+The platform uses:  Server-side loan limits, Secure authentication, Multi-factor verification, KYC/identity verification, Transaction integrity controls, Verified payment webhooks, Role-based access control, Audit trails, Fraud and risk monitoring, 
 
 🔗 Repository:
-
 https://github.com/Wells-Interactive/Brainyte_Lendora
 
 ---
 
-### 🔐 Lendora
-
-Lendora is a Brainyte test project to enhance Fintech security. It is designed around a **security-first architecture** where the backend remains the only authoritative source of truth for financial operations. This test API might later become available for public use.
-
-The platform uses:  Server-side loan limits, Secure authentication, Multi-factor verification, KYC/identity verification, Transaction integrity controls, Verified payment webhooks, Role-based access control, Audit trails, Fraud and risk monitoring, 
 
 ---
 
